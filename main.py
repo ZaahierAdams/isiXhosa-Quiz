@@ -16,7 +16,7 @@ xbad = [448,549,666,936,937,943,1008] #produces errors for Xhosa Column 1, don't
 ##xhosa_1 = 2
 ##xhosa_2 = 3
 
-path = 'C:\\Users\\User\\Desktop\\py work\\Old\\Xhosa quiz\\Vocab.csv'
+path = 'C:\\Vocab.csv'
 econding_ = 'Windows-1252'
 
 def reference(rand,language):
