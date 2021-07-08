@@ -5,7 +5,11 @@ Learn the isiXhosa language using this simple console application.
 Test yourself with over 1000 isiXhosa words, phrases and their translations!
 
 ## Getting started
-You will need [Python](https://www.python.org/downloads/)
+- You will need [Python](https://www.python.org/downloads/)
+- Change the directory of ```Vocab.csv``` on line 19 of ```main.py``` 
+``` 
+path = 'C:\\Vocab.csv'
+```
 
 ## Disclaimer 
 I manually typed out ```Vocab.csv```. Consequently, there might be errors in the isiXhosa/ English words. 
