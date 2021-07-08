@@ -1,3 +1,8 @@
+'''
+Developed by: Zaahier Adams
+https://github.com/ZaahierAdams
+'''
+
 import csv
 import random
 import difflib
